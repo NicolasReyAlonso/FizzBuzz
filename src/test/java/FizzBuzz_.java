@@ -7,7 +7,7 @@ public class FizzBuzz_ {
     @Test
 
     public void sholud_return_num_when_not_3_or_15_multiple(){
-        assertThat();
+
     }
 
 
